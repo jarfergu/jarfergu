@@ -1,7 +1,3 @@
-Sure, here's a filled-in version for your GitHub profile prompts:
-
----
-
 - 👋 Hi, I’m @jarfergu
 - 👀 I’m interested in sustainable landscape design and integrating AI into architecture.
 - 🌱 I’m currently learning how to use AI and LiDAR for enhanced site surveys and design processes.
